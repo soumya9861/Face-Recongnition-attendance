@@ -1,6 +1,7 @@
-//pip install opencv-python
-//pip install face_recognition
-//Python code
+#install required libraries on Anaconda Prompt
+pip install opencv-python
+pip install face_recognition
+#**Python code**
 import cv2
 import numpy as np
 import face_recognition
